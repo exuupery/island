@@ -7,7 +7,7 @@
 **Dynamic Island for Windows**
 
 ![Windows 10 and 11](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D4)
-![Latest release](https://img.shields.io/github/v/release/exuupery/island-releases?label=release&color=8ea2ff)
+![Latest release](https://img.shields.io/github/v/release/exuupery/island?label=release&color=8ea2ff)
 ![Interface: English and Russian](https://img.shields.io/badge/interface-English%20%7C%20%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-8ea2ff)
 
 </div>
@@ -185,7 +185,7 @@ Visa, Mastercard, Apple Pay and PayPal are accepted.
 ## Install
 
 Download the latest `Island_x.y.z_x64-setup.exe` from
-[**Releases**](https://github.com/exuupery/island-releases/releases/latest) and run it.
+[**Releases**](https://github.com/exuupery/island/releases/latest) and run it.
 Windows 10 or 11, 64-bit.
 
 Island updates itself: it checks for a new version at startup and every 6 hours, shows an “Update” card,
@@ -412,7 +412,7 @@ Island бесплатный, и большая его часть остаётс�
 ## Установка
 
 Скачай свежий `Island_x.y.z_x64-setup.exe` из
-[**Releases**](https://github.com/exuupery/island-releases/releases/latest) и запусти.
+[**Releases**](https://github.com/exuupery/island/releases/latest) и запусти.
 Нужна Windows 10 или 11, 64-разрядная.
 
 Island обновляется сам: проверяет новую версию при запуске и раз в 6 часов, показывает карточку
