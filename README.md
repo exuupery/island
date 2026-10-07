@@ -146,6 +146,7 @@ once by name; it is never guessed from your network address. The weather is part
 - **A light theme** for the island itself: dark, light, or whatever Windows uses.
 - **The island's size** from 80 to 200%: on a big monitor it can be made bigger.
 - **Transparency** of the folded and of the open island, each set on its own.
+- **The island in screenshots and recordings.** By default screen captures leave it out; one setting shows it in screenshots, recordings and streams.
 - **Voice to text.** Press the hotkey, speak, press again: the text is on the clipboard (and, if you like, typed straight into the window you were in).
 - **Reminders** that show up as a card with a sound and wait until you answer them.
 - **AI** through any OpenAI-compatible API, with free services one click away.
@@ -398,6 +399,7 @@ Island висит поверх всех окон, по центру верхне
 - **Светлая тема** самого острова: тёмная, светлая или как в Windows.
 - **Размер острова** от 80 до 200 %: на большом мониторе его можно сделать крупнее.
 - **Прозрачность** свёрнутого и раскрытого острова настраивается отдельно.
+- **Остров на скриншотах и в записи.** По умолчанию в захват экрана он не попадает; одна настройка показывает его на скриншотах, в записи и на трансляциях.
 - **Голос в текст.** Нажми сочетание, скажи, нажми ещё раз: текст в буфере (а если хочешь, сразу в окне, где стоял курсор).
 - **Напоминания**: появляются карточкой со звуком и ждут, пока на них не ответят.
 - **ИИ** через любой OpenAI-совместимый API; бесплатные сервисы подключаются в один клик.
