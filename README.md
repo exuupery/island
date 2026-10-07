@@ -125,6 +125,10 @@ once by name; it is never guessed from your network address. The weather is part
 - **QR code from the screen** and a **color picker** with a magnifier and colour history.
 - **Screen recording** to MP4 (H.264 through Media Foundation) or GIF.
 - **Paste without formatting** on a hotkey.
+- **Control centre.** Wi-Fi, Bluetooth and the dark theme in one press; lock, sleep, restart and shut down the computer (the last three ask to be pressed twice). As a tab of the island and as commands in the command bar.
+- **The time and the battery charge** on the folded island: the time in the middle, the charge next to it on a laptop.
+- **Auto-hide.** If the island gets in the way of your browser's tabs, it leaves the screen and comes back when the cursor rests at the very top edge above it. With a card, a recording or a dictation it comes out by itself.
+- **Transparency** of the folded and of the open island, each set on its own.
 - **Voice to text.** Press the hotkey, speak, press again: the text is on the clipboard (and, if you like, typed straight into the window you were in).
 - **Reminders** that show up as a card with a sound and wait until you answer them.
 - **AI** through any OpenAI-compatible API, with free services one click away.
@@ -352,6 +356,10 @@ Island висит поверх всех окон, по центру верхне
 - **QR-код с экрана** и **пипетка** с лупой и историей цветов.
 - **Запись экрана** в MP4 (H.264 через Media Foundation) или GIF.
 - **Вставка без форматирования** по горячей клавише.
+- **Центр управления.** Wi-Fi, Bluetooth и тёмная тема одним нажатием; блокировка, сон, перезагрузка и выключение компьютера (три последних просят нажать дважды). Вкладкой острова и командами в командной строке.
+- **Часы и заряд батареи** в свёрнутом острове: время посередине, на ноутбуке рядом заряд.
+- **Автоскрытие.** Если остров мешает нажимать вкладки браузера, он уходит за край экрана и возвращается, когда задержишь курсор у самого верхнего края над ним. С карточкой, записью или диктовкой он выходит сам.
+- **Прозрачность** свёрнутого и раскрытого острова настраивается отдельно.
 - **Голос в текст.** Нажми сочетание, скажи, нажми ещё раз: текст в буфере (а если хочешь, сразу в окне, где стоял курсор).
 - **Напоминания**: появляются карточкой со звуком и ждут, пока на них не ответят.
 - **ИИ** через любой OpenAI-совместимый API; бесплатные сервисы подключаются в один клик.
