@@ -143,6 +143,8 @@ once by name; it is never guessed from your network address. The weather is part
 - **QR code from the screen** and a **color picker** with a magnifier and colour history.
 - **Screen recording** to MP4 (H.264 through Media Foundation) or GIF.
 - **Paste without formatting** on a hotkey.
+- **A light theme** for the island itself: dark, light, or whatever Windows uses.
+- **The island's size** from 80 to 200%: on a big monitor it can be made bigger.
 - **Transparency** of the folded and of the open island, each set on its own.
 - **Voice to text.** Press the hotkey, speak, press again: the text is on the clipboard (and, if you like, typed straight into the window you were in).
 - **Reminders** that show up as a card with a sound and wait until you answer them.
@@ -151,6 +153,10 @@ once by name; it is never guessed from your network address. The weather is part
 
 Text from the screen, screen recording, voice to text and the AI are part of [Island Pro](#island-pro);
 everything else here is free.
+
+<div align="center">
+<img src="docs/img/en/light.png" width="760" alt="The island in its light theme: the Home tab">
+</div>
 
 <div align="center">
 <img src="docs/img/en/settings.png" width="860" alt="Settings: character gallery and general options with the language switch">
@@ -389,6 +395,8 @@ Island висит поверх всех окон, по центру верхне
 - **QR-код с экрана** и **пипетка** с лупой и историей цветов.
 - **Запись экрана** в MP4 (H.264 через Media Foundation) или GIF.
 - **Вставка без форматирования** по горячей клавише.
+- **Светлая тема** самого острова: тёмная, светлая или как в Windows.
+- **Размер острова** от 80 до 200 %: на большом мониторе его можно сделать крупнее.
 - **Прозрачность** свёрнутого и раскрытого острова настраивается отдельно.
 - **Голос в текст.** Нажми сочетание, скажи, нажми ещё раз: текст в буфере (а если хочешь, сразу в окне, где стоял курсор).
 - **Напоминания**: появляются карточкой со звуком и ждут, пока на них не ответят.
@@ -397,6 +405,10 @@ Island висит поверх всех окон, по центру верхне
 
 Текст с экрана, запись экрана, голос в текст и ИИ входят в [Island Pro](#island-pro-1); всё остальное
 здесь бесплатно.
+
+<div align="center">
+<img src="docs/img/ru/light.png" width="760" alt="Остров в светлой теме: вкладка «Главная»">
+</div>
 
 <div align="center">
 <img src="docs/img/ru/settings.png" width="860" alt="Настройки: галерея персонажей и общие параметры с переключателем языка">
