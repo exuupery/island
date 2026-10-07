@@ -36,7 +36,7 @@ It never takes the keyboard focus away from the window you are typing in, so a c
 entry pastes it right where the caret is.
 
 <div align="center">
-<img src="docs/img/demo-en.webp" width="760" alt="The island opens, shows the chat with attachments, the forecast and the note with a reminder, folds, takes a dictation, warns about rain, shows a reminder and ends as a pill with the temperature">
+<img src="docs/img/demo-en.webp" width="760" alt="The island reaches for the cursor, plays music, opens on a hover, shows the chat and the control centre, a download, hides and comes back from the edge of the screen; characters watch the cursor; the light theme">
 </div>
 
 ## The pill is alive
@@ -288,7 +288,7 @@ Island висит поверх всех окон, по центру верхне
 ровно туда, где стоит курсор.
 
 <div align="center">
-<img src="docs/img/demo-ru.webp" width="760" alt="Остров раскрывается, показывает чат с вложениями, прогноз погоды и заметку с напоминанием, сворачивается, принимает диктовку, предупреждает о дожде, показывает напоминание и остаётся пилюлей с температурой">
+<img src="docs/img/demo-ru.webp" width="760" alt="Остров тянется к курсору, играет музыку, раскрывается по наведению, показывает чат и центр управления, загрузку, прячется и возвращается от края экрана; персонажи следят за курсором; светлая тема">
 </div>
 
 ## Пилюля живая
