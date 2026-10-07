@@ -45,7 +45,7 @@ The island itself is made of ferrofluid. Its lower edge reaches for the cursor, 
 the colour of the album cover, drops a bead when something good happens and sags when you are away.
 
 <div align="center">
-<img src="docs/img/en/live-pills.png" width="860" alt="Pill states: liquid island, music, voice to text, screen recording, download, files on the shelf">
+<img src="docs/img/en/live-pills.png" width="860" alt="Pill states: the liquid island with the time, the time and the battery charge, music, voice to text, screen recording, a download, files on the shelf, a character">
 </div>
 
 Events show up on their own and fold away a moment later:
@@ -54,9 +54,17 @@ Events show up on their own and fold away a moment later:
 <img src="docs/img/en/live-cards.png" width="860" alt="Cards: reminder, dictated text, screenshot, color picker, downloaded file, VPN">
 </div>
 
-Music with an equalizer · dictation with a voice meter · reminders · download progress · microphone and
+Music with an equalizer · dictation with a voice meter · reminders · downloads from any app · microphone and
 camera dots with a mute button · volume by mouse wheel · keyboard layout and Caps Lock · VPN with country
 and IP · screen recording · updates.
+
+The time sits in the middle of the folded island, with the battery charge next to it on a laptop. And if
+the island gets in the way of your browser's tabs, turn on auto-hide: it leaves the screen and comes back
+when the cursor rests at the very top edge above it.
+
+<div align="center">
+<img src="docs/img/en/auto-hide.png" width="860" alt="Auto-hide: the island is hidden, the cursor at the edge of the screen, the island is out">
+</div>
 
 ## Pick a character
 
@@ -116,6 +124,16 @@ once by name; it is never guessed from your network address. The weather is part
 <b>Note.</b> One note that saves itself, with reminders: pick a line, choose “in 30 min” or type “tomorrow 9:00”, and the island will call you at that time.
 </td>
 </tr>
+<tr>
+<td valign="top">
+<img src="docs/img/en/tab-controls.png" alt="Controls tab">
+<b>Controls.</b> Wi-Fi, Bluetooth and the dark theme in one press; lock, sleep, restart and shut down. The last three ask to be pressed twice.
+</td>
+<td valign="top">
+<img src="docs/img/en/command-controls.png" alt="System commands in the command bar">
+<b>System commands.</b> The same from the command bar: “wifi”, “bluetooth”, “theme”, “lock”.
+</td>
+</tr>
 </table>
 
 ### Tools
@@ -125,9 +143,6 @@ once by name; it is never guessed from your network address. The weather is part
 - **QR code from the screen** and a **color picker** with a magnifier and colour history.
 - **Screen recording** to MP4 (H.264 through Media Foundation) or GIF.
 - **Paste without formatting** on a hotkey.
-- **Control centre.** Wi-Fi, Bluetooth and the dark theme in one press; lock, sleep, restart and shut down the computer (the last three ask to be pressed twice). As a tab of the island and as commands in the command bar.
-- **The time and the battery charge** on the folded island: the time in the middle, the charge next to it on a laptop.
-- **Auto-hide.** If the island gets in the way of your browser's tabs, it leaves the screen and comes back when the cursor rests at the very top edge above it. With a card, a recording or a dictation it comes out by itself.
 - **Transparency** of the folded and of the open island, each set on its own.
 - **Voice to text.** Press the hotkey, speak, press again: the text is on the clipboard (and, if you like, typed straight into the window you were in).
 - **Reminders** that show up as a card with a sound and wait until you answer them.
@@ -276,7 +291,7 @@ Island висит поверх всех окон, по центру верхне
 обложки, от хороших новостей роняет каплю, а когда тебя нет, устало провисает.
 
 <div align="center">
-<img src="docs/img/ru/live-pills.png" width="860" alt="Состояния пилюли: жидкий остров, музыка, голос в текст, запись экрана, загрузка, файлы на полке">
+<img src="docs/img/ru/live-pills.png" width="860" alt="Состояния пилюли: жидкий остров с часами, часы и заряд батареи, музыка, голос в текст, запись экрана, загрузка, файлы на полке, персонаж">
 </div>
 
 События появляются сами и через мгновение сворачиваются:
@@ -285,9 +300,17 @@ Island висит поверх всех окон, по центру верхне
 <img src="docs/img/ru/live-cards.png" width="860" alt="Карточки: напоминание, надиктованный текст, скриншот, пипетка, готовая загрузка, VPN">
 </div>
 
-Музыка с эквалайзером · диктовка с индикатором голоса · напоминания · прогресс загрузок · точки
+Музыка с эквалайзером · диктовка с индикатором голоса · напоминания · загрузки из любых программ · точки
 микрофона и камеры с кнопкой отключения · громкость колесом мыши · раскладка и Caps Lock · VPN со страной
 и IP · запись экрана · обновления.
+
+Посередине свёрнутого острова стоит время, на ноутбуке рядом с ним заряд батареи. А если остров закрывает
+вкладки браузера, включи автоскрытие: он уйдёт за край экрана и вернётся, когда задержишь курсор у самого
+верхнего края над ним.
+
+<div align="center">
+<img src="docs/img/ru/auto-hide.png" width="860" alt="Автоскрытие: остров спрятан, курсор у края экрана, остров вышел">
+</div>
 
 ## Выбери персонажа
 
@@ -347,6 +370,16 @@ Island висит поверх всех окон, по центру верхне
 <b>Заметка.</b> Одна заметка, которая сохраняется сама, и напоминания к ней: встань на строку, выбери «30 мин» или напиши «завтра 9:00», и остров позовёт тебя в это время.
 </td>
 </tr>
+<tr>
+<td valign="top">
+<img src="docs/img/ru/tab-controls.png" alt="Вкладка «Управление»">
+<b>Управление.</b> Wi-Fi, Bluetooth и тёмная тема одним нажатием; блокировка, сон, перезагрузка и выключение. Три последних просят нажать дважды.
+</td>
+<td valign="top">
+<img src="docs/img/ru/command-controls.png" alt="Системные команды в командной строке">
+<b>Команды системы.</b> То же самое из командной строки: «wifi», «bluetooth», «тема», «заблокировать».
+</td>
+</tr>
 </table>
 
 ### Инструменты
@@ -356,9 +389,6 @@ Island висит поверх всех окон, по центру верхне
 - **QR-код с экрана** и **пипетка** с лупой и историей цветов.
 - **Запись экрана** в MP4 (H.264 через Media Foundation) или GIF.
 - **Вставка без форматирования** по горячей клавише.
-- **Центр управления.** Wi-Fi, Bluetooth и тёмная тема одним нажатием; блокировка, сон, перезагрузка и выключение компьютера (три последних просят нажать дважды). Вкладкой острова и командами в командной строке.
-- **Часы и заряд батареи** в свёрнутом острове: время посередине, на ноутбуке рядом заряд.
-- **Автоскрытие.** Если остров мешает нажимать вкладки браузера, он уходит за край экрана и возвращается, когда задержишь курсор у самого верхнего края над ним. С карточкой, записью или диктовкой он выходит сам.
 - **Прозрачность** свёрнутого и раскрытого острова настраивается отдельно.
 - **Голос в текст.** Нажми сочетание, скажи, нажми ещё раз: текст в буфере (а если хочешь, сразу в окне, где стоял курсор).
 - **Напоминания**: появляются карточкой со звуком и ждут, пока на них не ответят.
