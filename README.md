@@ -117,11 +117,11 @@ once by name; it is never guessed from your network address. The weather is part
 <tr>
 <td valign="top">
 <img src="docs/img/en/command-bar.png" alt="Command bar">
-<b>Command bar.</b> Apps, recent files, a calculator, unit and currency conversion, web search, a question to the AI. <code>Alt+Space</code>.
+<b>Command bar.</b> Apps (those from the Store too), recent files, a calculator, unit and currency conversion, web search, a question to the AI. <code>Alt+Space</code>; <code>Ctrl+Enter</code> opens the folder of a program or a file, <code>Ctrl+Shift+Enter</code> starts a program as administrator.
 </td>
 <td valign="top">
 <img src="docs/img/en/tab-note.png" alt="Note tab">
-<b>Note.</b> One note that saves itself, with reminders: pick a line, choose “in 30 min” or type “tomorrow 9:00”, and the island will call you at that time.
+<b>Note.</b> A note that saves itself, folders beside it for tasks and ideas, and reminders: pick a line, choose “in 30 min” or type “tomorrow 9:00”, and the island will call you at that time.
 </td>
 </tr>
 <tr>
@@ -370,11 +370,11 @@ Island висит поверх всех окон, по центру верхне
 <tr>
 <td valign="top">
 <img src="docs/img/ru/command-bar.png" alt="Командная строка">
-<b>Командная строка.</b> Программы, недавние файлы, калькулятор, перевод единиц и валют, поиск в интернете, вопрос ИИ. <code>Alt+Space</code>.
+<b>Командная строка.</b> Программы (и те, что из Магазина), недавние файлы, калькулятор, перевод единиц и валют, поиск в интернете, вопрос ИИ. <code>Alt+Space</code>; <code>Ctrl+Enter</code> открывает папку программы или файла, <code>Ctrl+Shift+Enter</code> запускает программу от имени администратора.
 </td>
 <td valign="top">
 <img src="docs/img/ru/tab-note.png" alt="Вкладка «Заметка»">
-<b>Заметка.</b> Одна заметка, которая сохраняется сама, и напоминания к ней: встань на строку, выбери «30 мин» или напиши «завтра 9:00», и остров позовёт тебя в это время.
+<b>Заметка.</b> Заметка, которая сохраняется сама, папки рядом с ней для задач и идей и напоминания: встань на строку, выбери «30 мин» или напиши «завтра 9:00», и остров позовёт тебя в это время.
 </td>
 </tr>
 <tr>
