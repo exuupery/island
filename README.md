@@ -54,7 +54,7 @@ Events show up on their own and fold away a moment later:
 <img src="docs/img/en/live-cards.png" width="860" alt="Cards: reminder, dictated text, screenshot, color picker, downloaded file, VPN">
 </div>
 
-Music with an equalizer · dictation with a voice meter · reminders · downloads from any app · microphone and
+Music with an equalizer · dictation with a voice meter · reminders · downloads, not only from the browser · microphone and
 camera dots with a mute button · volume by mouse wheel · keyboard layout and Caps Lock · VPN with country
 and IP · screen recording · updates.
 
@@ -308,7 +308,7 @@ Island висит поверх всех окон, по центру верхне
 <img src="docs/img/ru/live-cards.png" width="860" alt="Карточки: напоминание, надиктованный текст, скриншот, пипетка, готовая загрузка, VPN">
 </div>
 
-Музыка с эквалайзером · диктовка с индикатором голоса · напоминания · загрузки из любых программ · точки
+Музыка с эквалайзером · диктовка с индикатором голоса · напоминания · загрузки не только из браузера · точки
 микрофона и камеры с кнопкой отключения · громкость колесом мыши · раскладка и Caps Lock · VPN со страной
 и IP · запись экрана · обновления.
 
