@@ -127,7 +127,7 @@ once by name; it is never guessed from your network address. The weather is part
 <tr>
 <td valign="top">
 <img src="docs/img/en/tab-controls.png" alt="Controls tab">
-<b>Controls.</b> Wi-Fi, Bluetooth and the dark theme in one press; lock, sleep, restart and shut down. The last three ask to be pressed twice.
+<b>Controls.</b> Wi-Fi (or the wired network, if you prefer or the computer has no Wi-Fi), Bluetooth and the dark theme in one press; lock, sleep, restart and shut down. The last three ask to be pressed twice.
 </td>
 <td valign="top">
 <img src="docs/img/en/command-controls.png" alt="System commands in the command bar">
@@ -147,6 +147,7 @@ once by name; it is never guessed from your network address. The weather is part
 - **The island's size** from 80 to 200%: on a big monitor it can be made bigger.
 - **Transparency** of the folded and of the open island, each set on its own.
 - **The island in screenshots and recordings.** By default screen captures leave it out; one setting shows it in screenshots, recordings and streams.
+- **Your own sound devices.** You can choose whose volume the island controls and which microphone it mutes and records, when these are not the defaults of Windows: handy with a virtual mixer. The sound itself is not switched anywhere by this.
 - **Voice to text.** Press the hotkey, speak, press again: the text is on the clipboard (and, if you like, typed straight into the window you were in).
 - **Reminders** that show up as a card with a sound and wait until you answer them.
 - **AI** through any OpenAI-compatible API, with free services one click away.
@@ -380,7 +381,7 @@ Island висит поверх всех окон, по центру верхне
 <tr>
 <td valign="top">
 <img src="docs/img/ru/tab-controls.png" alt="Вкладка «Управление»">
-<b>Управление.</b> Wi-Fi, Bluetooth и тёмная тема одним нажатием; блокировка, сон, перезагрузка и выключение. Три последних просят нажать дважды.
+<b>Управление.</b> Wi-Fi (или проводная сеть: по выбору или там, где Wi-Fi нет), Bluetooth и тёмная тема одним нажатием; блокировка, сон, перезагрузка и выключение. Три последних просят нажать дважды.
 </td>
 <td valign="top">
 <img src="docs/img/ru/command-controls.png" alt="Системные команды в командной строке">
@@ -400,6 +401,7 @@ Island висит поверх всех окон, по центру верхне
 - **Размер острова** от 80 до 200 %: на большом мониторе его можно сделать крупнее.
 - **Прозрачность** свёрнутого и раскрытого острова настраивается отдельно.
 - **Остров на скриншотах и в записи.** По умолчанию в захват экрана он не попадает; одна настройка показывает его на скриншотах, в записи и на трансляциях.
+- **Свои устройства звука.** Можно выбрать, чью громкость регулирует остров и какой микрофон он выключает и записывает, если это не устройства Windows по умолчанию: удобно с виртуальным микшером. Сам звук при этом никуда не переключается.
 - **Голос в текст.** Нажми сочетание, скажи, нажми ещё раз: текст в буфере (а если хочешь, сразу в окне, где стоял курсор).
 - **Напоминания**: появляются карточкой со звуком и ждут, пока на них не ответят.
 - **ИИ** через любой OpenAI-совместимый API; бесплатные сервисы подключаются в один клик.
