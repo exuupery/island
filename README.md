@@ -121,7 +121,7 @@ once by name; it is never guessed from your network address. The weather is part
 <b>Command bar.</b> Apps (those from the Store too), files and folders by name, recent files, a calculator, unit and currency conversion, web search, a question to the AI, “timer 10 min” and “remind me to call mum at 7 pm”; a line after “>” runs in cmd or PowerShell. <code>Alt+Space</code>; <code>Ctrl+Enter</code> opens the folder of a program or a file, <code>Ctrl+Shift+Enter</code> starts a program as administrator.
 </td>
 <td valign="top">
-<img src="docs/img/en/tab-note.png" alt="Note tab">
+<img src="docs/img/en/tab-note.png" alt="Note tab: formatting, folders, the timer and reminders">
 <b>Note, timer and reminders.</b> A note that saves itself, with formatting (bold, italic, struck, marked with a colour, lists, numbered lists and tasks with ticks) and folders for tasks and ideas. Beside it are a timer (ready lengths or your own, it stays in the pill while it runs) and reminders typed as one phrase: “call mum tomorrow at 9”, “pills every day at 23:00”, “in 20 minutes turn the stove off”. A reminder can be changed afterwards.
 </td>
 </tr>
@@ -157,7 +157,7 @@ once by name; it is never guessed from your network address. The weather is part
 - **Where the island stands.** On the monitor of your choice, moved along its top edge; with a taskbar at the top of the screen it stands under it.
 - **The pill while music plays.** The usual one, a wider one with the track's name and a thin bar of its time, or a mini player: the cover, the track, the bar and the buttons right in the pill.
 - **The song's words in time with the music.** In the mini player and in a pill of its own, the line being sung lights up. Free, turned on in the settings; the words come from the open [LRCLIB](https://lrclib.net/) base, only for the song that plays.
-- **AI agents in a terminal** (Island Pro). Claude Code and Codex tell the island what they do: the pill shows that an agent is working, waits for an answer or is done, and a card comes with its question or the beginning of its answer. Connected in Settings with one press.
+- **AI agents in a terminal** (Island Pro). Claude Code and Codex tell the island what they do: the pill shows that an agent is working, waits for an answer or is done, and a card comes with its question or the beginning of its answer. Claude Code can be answered right on the island: allow or deny a command, or pick one of its choices. Connected in Settings with one press.
 - **Through mode.** The folded island lets clicks through and does not open under the cursor: it is in sight and in nobody's way. The settings, a hotkey or the command bar turn the mode on and off.
 - **The edge as an equaliser.** For the liquid island: with music the edge shows the sound by frequency, low on the left and high on the right.
 - **A link to a screenshot.** A button on the screenshot's card uploads it to Imgur or ImgBB with a key of your own (nothing is uploaded until you choose a service) and copies the link.
@@ -173,7 +173,7 @@ everything else here is free.
 </div>
 
 <div align="center">
-<img src="docs/img/en/settings.png" width="860" alt="Settings: character gallery and general options with the language switch">
+<img src="docs/img/en/settings.png" width="860" alt="Settings: the list of pages at the left, the character gallery and the general options with the language switch">
 </div>
 
 ### Hotkeys
@@ -212,7 +212,7 @@ liquid island and three characters (Pixel, Spark and Eyes).
 For the first 14 days all of Pro is open, so you can try everything before you decide. After that the
 free part keeps working, and nothing you saved is lost.
 
-The key costs **$2.99**, never expires, is checked on your computer with no internet and works on all of
+The key costs **$4.99**, never expires, is checked on your computer with no internet and works on all of
 your own computers.
 
 **[Buy Island Pro](https://app.lava.top/products/53729bb9-e57e-4ee3-b141-9344ad806f01?currency=USD)**, then paste the key into **Settings → Island Pro**.
@@ -270,7 +270,7 @@ Island works on your computer and keeps its data there.
 - What AI agents tell the island goes to it on this very computer and is kept nowhere. To connect them, the island adds its own lines to their settings (Claude Code's hooks, Codex's notify), and a copy of the file is kept beside it.
 - Notifications of other programs are read from Windows only when you turn that on; they are shown and kept nowhere. The names of your files, by which the command bar finds them, are held in memory only.
 - Network requests, all of them optional or obvious: the AI endpoint you set up, the update check on GitHub, the forecast for the city you chose (api.met.no; only its coordinates are sent), the city search when you look one up (nominatim.openstreetmap.org; what you typed), Bank of Russia exchange rates for the currency converter (cbr-xml-daily.ru), a country/IP lookup for the VPN chip (ipwho.is; can be switched off), the site of a link you add to the launcher, for its icon (only that site, only while the icon is found by itself), and OBS on this very computer (127.0.0.1) when you turn its status on.
-- The island and the selection overlay are excluded from screen capture, so they never end up in your screenshots.
+- By default the island stays out of screenshots, screen recordings and streams; one setting shows it there.
 
 ## Limitations
 
@@ -394,7 +394,7 @@ Island висит поверх всех окон, по центру верхне
 <b>Командная строка.</b> Программы (и те, что из Магазина), файлы и папки по имени, недавние файлы, калькулятор, перевод единиц и валют, поиск в интернете, вопрос ИИ, «таймер 10 мин» и «напомни позвонить маме завтра в 9»; строка после «>» выполняется в cmd или PowerShell. <code>Alt+Space</code>; <code>Ctrl+Enter</code> открывает папку программы или файла, <code>Ctrl+Shift+Enter</code> запускает программу от имени администратора.
 </td>
 <td valign="top">
-<img src="docs/img/ru/tab-note.png" alt="Вкладка «Заметка»">
+<img src="docs/img/ru/tab-note.png" alt="Вкладка «Заметка»: форматирование, папки, таймер и напоминания">
 <b>Заметка, таймер и напоминания.</b> Заметка, которая сохраняется сама, с форматированием (жирный, курсив, зачёркнутый, выделение цветом, списки, нумерованные списки и задачи с галочками) и папками для задач и идей. Рядом с ней таймер (готовые отрезки или своё время; пока идёт, он виден в пилюле) и напоминания одной фразой: «позвонить маме завтра в 9», «таблетки каждый день в 23:00», «через 20 минут выключить плиту». Напоминание можно изменить и после.
 </td>
 </tr>
@@ -430,7 +430,7 @@ Island висит поверх всех окон, по центру верхне
 - **Где стоит остров.** На выбранном мониторе, со сдвигом вдоль его верхнего края; с панелью задач вверху экрана он встаёт под неё.
 - **Пилюля во время музыки.** Обычная, пошире с названием трека и тонкой полосой времени или мини-плеер: обложка, трек, полоса и кнопки прямо в пилюле.
 - **Текст песни в такт музыке.** В мини-плеере и в своей пилюле подсвечивается строка, которая звучит сейчас. Бесплатно, включается в настройках; тексты — из открытой базы [LRCLIB](https://lrclib.net/), только для играющей песни.
-- **ИИ-агенты в терминале** (Island Pro). Claude Code и Codex сообщают острову, что делают: в пилюле видно, что агент работает, ждёт ответа или закончил, а карточка приходит с его вопросом или началом ответа. Подключаются в настройках одним нажатием.
+- **ИИ-агенты в терминале** (Island Pro). Claude Code и Codex сообщают острову, что делают: в пилюле видно, что агент работает, ждёт ответа или закончил, а карточка приходит с его вопросом или началом ответа. Claude Code можно ответить прямо на острове: разрешить или запретить команду, выбрать один из его вариантов. Подключаются в настройках одним нажатием.
 - **Сквозной режим.** Свёрнутый остров пропускает клики и не раскрывается под курсором: он на виду и ничему не мешает. Включается и выключается в настройках, клавишей или из командной строки.
 - **Край-эквалайзер.** У жидкого острова: при музыке край показывает звук по частотам, слева низкие, справа высокие.
 - **Ссылка на скриншот.** Кнопка на карточке скриншота загружает его на Imgur или ImgBB со своим ключом (пока сервис не выбран, ничего не загружается) и копирует ссылку.
@@ -446,7 +446,7 @@ Island висит поверх всех окон, по центру верхне
 </div>
 
 <div align="center">
-<img src="docs/img/ru/settings.png" width="860" alt="Настройки: галерея персонажей и общие параметры с переключателем языка">
+<img src="docs/img/ru/settings.png" width="860" alt="Настройки: список страниц слева, галерея персонажей и общие параметры с переключателем языка">
 </div>
 
 ### Горячие клавиши
@@ -485,7 +485,7 @@ Island бесплатный, и большая его часть остаётс�
 Первые 14 дней весь Pro открыт, так что всё можно попробовать до покупки. Потом бесплатная часть
 продолжает работать, и ничего из сохранённого не пропадает.
 
-Ключ стоит **249 ₽**, бессрочный, проверяется на твоём компьютере без интернета и подходит для всех
+Ключ стоит **399 ₽**, бессрочный, проверяется на твоём компьютере без интернета и подходит для всех
 своих компьютеров.
 
 **[Купить Island Pro](https://app.lava.top/products/53729bb9-e57e-4ee3-b141-9344ad806f01?currency=RUB)**, потом вставь ключ в **Настройки → Island Pro**.
@@ -546,7 +546,7 @@ Island работает на твоём компьютере и хранит д�
 - То, что сообщают ИИ-агенты, приходит острову на этом же компьютере и нигде не сохраняется. Чтобы их подключить, остров дописывает свои строки в их настройки (хуки Claude Code, notify у Codex), копия файла остаётся рядом.
 - Уведомления других программ остров читает у Windows, только когда ты это включил; он их показывает и нигде не сохраняет. Имена твоих файлов, по которым их находит командная строка, держатся только в памяти.
 - Сетевые запросы, все необязательные или очевидные: настроенный тобой адрес ИИ, проверка обновлений на GitHub, прогноз для выбранного города (api.met.no; уходят только его координаты), поиск города, когда ты его ищешь (nominatim.openstreetmap.org; уходит набранное название), курсы ЦБ для конвертера валют (cbr-xml-daily.ru), определение страны и IP для значка VPN (ipwho.is; отключается), сайт ссылки, которую ты добавил в лаунчер, ради её значка (только этот сайт и только пока значок подтягивается сам), и OBS на этом же компьютере (127.0.0.1), если включить его статус.
-- Остров и окно выделения исключены из захвата экрана, поэтому не попадают на твои скриншоты.
+- По умолчанию остров не попадает на скриншоты, в запись экрана и на трансляции; показать его там можно одной настройкой.
 
 ## Ограничения
 
