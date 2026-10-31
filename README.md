@@ -215,7 +215,7 @@ free part keeps working, and nothing you saved is lost.
 The key costs **$4.99**, never expires, is checked on your computer with no internet and works on all of
 your own computers.
 
-**[Buy Island Pro](https://app.lava.top/products/53729bb9-e57e-4ee3-b141-9344ad806f01?currency=USD)**, then paste the key into **Settings → Island Pro**.
+**[Buy Island Pro](https://islandapp.pro/?lang=en#isl-pro)**, then paste the key into **Settings → Island Pro**.
 
 Like the project? You can **[support its development](https://app.lava.top/3871177473?tabId=donate)** with any sum.
 Visa, Mastercard, Apple Pay and PayPal are accepted.
@@ -488,7 +488,7 @@ Island бесплатный, и большая его часть остаётс�
 Ключ стоит **399 ₽**, бессрочный, проверяется на твоём компьютере без интернета и подходит для всех
 своих компьютеров.
 
-**[Купить Island Pro](https://app.lava.top/products/53729bb9-e57e-4ee3-b141-9344ad806f01?currency=RUB)**, потом вставь ключ в **Настройки → Island Pro**.
+**[Купить Island Pro](https://islandapp.pro/?lang=ru#isl-pro)**, потом вставь ключ в **Настройки → Island Pro**.
 
 Нравится проект? Его развитие можно **[поддержать](https://app.lava.top/3871177473?tabId=donate)** любой суммой.
 Оплата картой или через СБП.
