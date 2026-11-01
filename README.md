@@ -276,7 +276,6 @@ Island works on your computer and keeps its data there.
 
 - Paste on click does not work in windows running as administrator (Windows protects them). The entry still lands on the clipboard.
 - Nothing can be drawn over games in exclusive full-screen mode, so the island hides there.
-- Screen recording has no sound.
 - Windows only.
 
 ## Data
@@ -552,7 +551,6 @@ Island работает на твоём компьютере и хранит д�
 
 - Вставка кликом не работает в окнах, запущенных от администратора (защита Windows). Запись при этом остаётся в буфере.
 - Над играми в эксклюзивном полноэкранном режиме ничего не рисуется, поэтому остров там прячется.
-- Запись экрана без звука.
 - Только Windows.
 
 ## Данные
